@@ -2,7 +2,7 @@
 
 
 
-Trần Hoàng Phúc 21522479
+||Trần Hoàng Phúc 21522479||Tạo chức năng kết nối
 
 Lê Bá Nhất Long 21522300
 
